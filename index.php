@@ -19,5 +19,5 @@ if (isset($conn)) {
 
 // Serve actual image
 header('Content-Type: image/png');
-readfile('image.png');
+readfile('https://ibb.co/KcgBfmnT');
 ?>
